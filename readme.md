@@ -35,7 +35,7 @@ El comando git branch -D title. (Al dejar un commit suelto, debemos utilizar el 
 El comando git reset --hard hash-commit.
 
 - ¿Qué comando o comandos usaste en el paso 32? 
-Los comandos git log --graph --pretty=oneline, pillamos hash del primer commit,, git checkout hash-commit.
+Los comandos git log --graph --pretty=oneline, pillamos hash del primer commit, git checkout hash-commit.
 
 - ¿Qué comando o comandos usaste en el punto 33? 
 El comando git checkout master, ya que la rama se encuentra al final.
